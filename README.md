@@ -1,4 +1,6 @@
-# Character Animation Library For C
+# 字符动画库 For C - Character Animation Library For C
+
+> 这只是我的第一个仓库，用来学习使用Git工具。本项目没实际意义，后续可能会完善做成真的库。
 
 ## 简介
 
@@ -31,7 +33,10 @@
 - 📝 **文本处理** - 智能处理空格和标点符号
 - 🖥️ **终端兼容** - 使用 ANSI 转义码，兼容主流终端
 - 🔄 **循环动画** - 自动循环播放动画帧序列
-## 快速开始
-还没做完
+
+## 使用教程
+[文档](https://www.worable.top/archives/character-animation-library-for-c/)
+
 ## 仓库地址
+
 https://github.com/worable233/Character-Animation-Library-For-C
