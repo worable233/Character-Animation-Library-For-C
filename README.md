@@ -1,6 +1,7 @@
 # 字符动画库 For C - Character Animation Library For C
 
 > 这只是我的第一个仓库，用来学习使用Git工具。本项目没实际意义，后续可能会完善做成真的库。
+> 不知道叫库合不合适捏，总之这是一个头文件。
 
 ## 简介
 
@@ -10,7 +11,7 @@
 
 ✨ **核心优势**
 
-- 🪶 **超轻量级** - 仅依赖 C 标准库，无额外依赖
+- 🚀 **超轻量级** - 仅依赖 C 标准库，无额外依赖
 - ⚡ **高性能** - 优化的动画渲染逻辑
 - 🔧 **高度可定制** - 支持手动修改动画帧和参数
 - 🛡️ **稳定可靠** - 内置空指针检查，增强程序健壮性
@@ -35,8 +36,8 @@
 - 🔄 **循环动画** - 自动循环播放动画帧序列
 
 ## 使用教程
-[文档](https://www.worable.top/archives/character-animation-library-for-c/)
+将`CALFC.c`与`CALFC.h`放到你的程序相同目录下即可使用`#include "CALFC.h"`调用头文件。
+[文档](https://www.worable.top/archives/character-animation-library-for-c/) [示例](https://github.com/worable233/Character-Animation-Library-For-C/blob/main/SampleProgram/main.c)
 
 ## 仓库地址
-
 https://github.com/worable233/Character-Animation-Library-For-C
